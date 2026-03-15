@@ -65,8 +65,8 @@ An interactive 2-page financial dashboard built using **SQL** and **Power BI** t
 ---
 
 ## 📸 Dashboard Preview
-![CC Transaction Report](CC Transaction Report.png)
-![CC Customer Report](CC Customer Report.png)
+![CC Transaction Report](cc_transaction.png)
+![CC Customer Report](cc_customer.png)
 
 ---
 
